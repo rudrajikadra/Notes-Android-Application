@@ -3,6 +3,10 @@ An Android App developed on Android Studio which is a notes app.
 It stores notes on local device memory.
 User can Add, Edit and Delete notes.
 
+## Features
+Uses SQLite Database to store notes on device memory.
+Search is also performed using SQL Statements to search for notes.
+
 ## Language
 It is created using android studio and the language used is Kotlin.
 
